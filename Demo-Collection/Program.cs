@@ -49,7 +49,7 @@ Console.WriteLine(product);
 */
 #endregion
 
-#region Démonstration Dictionnary<TKey,TValue>
+#region Démonstration Dictionary<TKey,TValue>
 
 Dictionary<string,int> shoplist = new Dictionary<string,int>();
 
